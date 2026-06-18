@@ -1,6 +1,11 @@
-# static.py
-
 HTML = """
+A fine romance, my good fellow
+You take romance, I'll take Jello
+You're calmer than the seals in the Arctic Ocean
+At least they flap their fins to express emotion
+A fine romance, with no quarrels
+With no insults and all morals
+"""
 <!DOCTYPE html>
 <html>
 <head>
