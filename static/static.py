@@ -1,10 +1,10 @@
-HTML = """
-A fine romance, my good fellow
-You take romance, I'll take Jello
-You're calmer than the seals in the Arctic Ocean
-At least they flap their fins to express emotion
-A fine romance, with no quarrels
-With no insults and all morals"""
+HTML = """There's a fire starting in my heart
+Reaching a fever pitch,
+it's bringing me out the dark
+Finally I can see you crystal clear
+Go head and sell me out
+and I'll lay your shit bare"""
+
 <!DOCTYPE html>
 <html>
 <head>
